@@ -1,0 +1,1 @@
+# codeQuality-starter-kit
